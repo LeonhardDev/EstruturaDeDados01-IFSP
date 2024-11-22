@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1731975886 source:c:\users\administrator\downloads\aula18do11\aula12-filas\fila.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
+1731975781 c:\users\administrator\downloads\aula18do11\aula12-filas\fila.h
+
+1732234656 source:c:\users\administrator\downloads\aula18do11\aula12-filas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fila.h"
+
